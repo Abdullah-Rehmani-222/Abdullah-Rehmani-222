@@ -2,11 +2,8 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning react.js
 - 📫 How to reach me (https://www.linkedin.com/in/abdullah-rehmani-257452249/)
-
-<!---
-Abdullah-Rehmani-222/Abdullah-Rehmani-222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Author - Abdullah Rehamni
+- This is my first Git Repository.
 
 # this is my Extension images:
 ![html-image](https://github.com/user-attachments/assets/742bf8bb-3b55-40c9-b48b-8327b03a9b95)
