@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning react.js
 - 📫 How to reach me (https://www.linkedin.com/in/abdullah-rehmani-257452249/)
-* Author - Abdullah Rehamni
+* Author - Abdullah Rehmani
 - This is my first Git Repository.
 
 # HOW TO ADD PROJECTS ON GITHUB:
